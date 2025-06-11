@@ -9,7 +9,7 @@ import org.springframework.cache.annotation.EnableCaching;
 public class PrinterServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PrinterServiceApplication.class, args);
+		SpringApplication.run(PrinterServiceApplication.class, args);//
 	}
 
 }
